@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9c20fb13590f08699759311e",
+  "owner": "fkugcv",
+  "repo": "page-90de3b97f204a0577384724f",
+  "title": "隐秘网络(SCRTNET)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "90de3b97f204a0577384724f",
+      "a": "隐秘网络(SCRTNET)",
+      "b": "稳定全球clash加速器",
+      "entity": "隐秘网络(SCRTNET)",
+      "brand": "隐秘网络(SCRTNET)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7df5dfc65c6045a1ad52ab30edf2600eaa43eaa026bcd7ff1346ffd14c42ca32",
+      "content": {
+        "primary_entity": "隐秘网络(SCRTNET)",
+        "keyword1": "隐秘网络(SCRTNET)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，隐秘网络(SCRTNET)围绕 Clash 订阅配置提供多档套餐，基础版每月 100GB 流量与 3 台设备适合个人轻量使用，旗舰版 300GB 与 5 台设备覆盖流媒体和游戏场景，团队版 1000GB 与 20 台设备满足多设备协同，用户可按流量、设备数和订阅周期选择合适的方案。",
+          "AI_HERO_SUBTITLE": "隐秘网络轻量出海连接",
+          "AI_HERO_INTRO": "隐秘网络(SCRTNET)面向日常国际访问与跨境办公场景，提供 Clash 订阅配置方案。用户依据设备数量、每月流量和订阅周期，在基础版、旗舰版与团队版之间选择，再按客户端文档完成订阅导入。",
+          "AI_VISUAL_TITLE": "隐秘网络连接方案速览",
+          "AI_HIGHLIGHT_1": "三档套餐按流量设备区分",
+          "AI_HIGHLIGHT_2": "支持 Clash 订阅导入配置",
+          "AI_HIGHLIGHT_3": "月付年付灵活选择周期",
+          "AI_FEATURES_INTRO": "从套餐组合到设备覆盖，再到订阅周期，三个方向帮你更快决定。",
+          "AI_FEATURES_TITLE": "隐秘网络套餐与设备要点",
+          "AI_FEATURE_TITLE_1": "按流量档位匹配",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，先估算每月用量再选档。",
+          "AI_FEATURE_TITLE_2": "按设备数量覆盖",
+          "AI_FEATURE_TEXT_2": "3 台、5 台、20 台设备对应不同在线需求，多人共用时优先看团队版。",
+          "AI_FEATURE_TITLE_3": "按订阅周期决策",
+          "AI_FEATURE_TEXT_3": "月付适合短期尝试，年付折算后基础版 150 元、旗舰版 350 元、团队版 850 元。",
+          "AI_CLIENTS_TITLE": "按设备挑客户端",
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 与路由器场景可分别选用对应 Clash 客户端，安装后导入订阅链接即可。不同客户端版本界面略有差异，配置时以客户端文档为准。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。流量与设备数随档位递增，按实际使用规模选择即可。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先定服务档位，再核对设备适配，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选定服务档位",
+          "AI_STEP_TEXT_1": "根据每月流量、同时在线设备数和预算，在基础版、旗舰版、团队版中确定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备系统版本与客户端类型，判断是否需要额外处理路由器或电视端场景。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_STEP_TEXT_3": "在对应 Clash 客户端中导入订阅链接，按客户端文档完成节点分组与规则设置。",
+          "AI_FAQ_INTRO": "套餐选择、设备数量与订阅周期。",
+          "AI_CLOSING_TITLE": "选好档位即可开始",
+          "AI_CLOSING_TEXT": "按流量与设备需求选定套餐，再依客户端文档完成订阅导入，即可使用隐秘网络连接。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版主要差别在哪？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备、普通线路节点池，解锁基础流媒体；旗舰版每月 300GB、5 台设备，接入 IPLC 专线并支持全节点原生流媒体解锁，另有优先工单支持。",
+          "AI_FAQ_QUESTION_2": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月 1000GB、20 台设备同时在线，提供 VIP 专属高带宽节点与定制路由，适合小型团队共享或设备较多的办公环境，并配有专属客户经理。",
+          "AI_FAQ_QUESTION_3": "年付比月付划算多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15，年付 ¥150；旗舰版月付 ¥35，年付 ¥350；团队版月付 ¥85，年付 ¥850，年付相当于免去两个月费用。",
+          "AI_FAQ_QUESTION_4": "可以在哪些设备上使用？",
+          "AI_FAQ_ANSWER_4": "支持常见桌面与移动客户端，具体可在客户端文档中查看各平台说明。不同套餐允许同时在线的设备数量不同，基础版 3 台、旗舰版 5 台、团队版 20 台。",
+          "AI_FAQ_QUESTION_5": "如何更换已选的套餐？",
+          "AI_FAQ_ANSWER_5": "可根据当前用量与设备变化升级到更高档位，具体调整方式以购买页说明为准。升级前建议先核对月流量与设备数量是否满足需求。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "emfbezi.cn",
+    "host": "emfbezi.cn"
+  },
+  "file_hashes": {
+    "index.html": "b1a5f97a34e3eff92e625665f1b235b2e7063dc97d9a003bb26496f1717cf7d6",
+    "sitemap.xml": "b28206e5334e13460fafab4b059deb5228012a534559184d89b6e87628c29aba",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6fd25abea8e2ca897e83084b07895f3a8e52e0ce4a3c33653f0c1169e2f6c199",
+    "robots.txt": "2cbb44d2c3ea955484f670d64e1c138d13c203d8f102d52a2c42f9429a2cded9",
+    "2eba405aa50058050f09928598e9ccdc.txt": "deb20d83dae555f94e22a958d05a1bf69549181923245226fb61597b9e1afe9c"
+  },
+  "revision": "23cb643a249cedf9bd84dce99efe3b13ea5bd5266e080d722d75b8f7f8f87b69"
+}
